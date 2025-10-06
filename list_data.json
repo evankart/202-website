@@ -1,22 +1,52 @@
 {
-	"movies": [
+	"Planets": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Mercury",
+			"Type": "Rocky",
+			"Distance from Sun (million miles)": "36",
+			"Earth Days per Year": "88"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Venus",
+			"Type": "Rocky",
+			"Distance from Sun (million miles)": "67",
+			"Earth Days per Year": "225"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Earth",
+			"Type": "Rocky",
+			"Distance from Sun (million miles)": "92",
+			"Earth Days per Year": "365"
+		},
+		{
+			"Name": "Mars",
+			"Type": "Rocky",
+			"Distance from Sun (million miles)": "141",
+			"Earth Days per Year": "687"
+		},
+		{
+			"Name": "Jupiter",
+			"Type": "Gas Giant",
+			"Distance from Sun (million miles)": "484",
+			"Earth Days per Year": "4,333"
+		},
+		{
+			"Name": "Saturn",
+			"Type": "Gas Giant",
+			"Distance from Sun (million miles)": "900",
+			"Earth Days per Year": "10,759"
+		},
+		{
+			"Name": "Uranus",
+			"Type": "Ice Giant",
+			"Distance from Sun (million miles)": "1,800",
+			"Earth Days per Year": "30,687"
+		},
+		{
+			"Name": "Neptune",
+			"Type": "Ice Giant",
+			"Distance from Sun (million miles)": "2,800",
+			"Earth Days per Year": "60,190"
 		}
 	]
 }
