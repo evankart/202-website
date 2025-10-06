@@ -1,0 +1,65 @@
+<planets>
+	<planet>
+		<id>0</id>
+		<name>Mercury</name>
+		<type>Rocky</type>
+		<distance>36</distance>
+		<earthDays>88</earthDays>
+	</planet>
+
+	<planet>
+		<id>1</id>
+		<name>Venus</name>
+		<type>Rocky</type>
+		<distance>67</distance>
+		<earthDays>225</earthDays>
+	</planet>
+
+	<planet>
+		<id>2</id>
+		<name>Earth</name>
+		<type>Rocky</type>
+		<distance>92</distance>
+		<earthDays>365</earthDays>
+	</planet>
+
+	<planet>
+		<id>3</id>
+		<name>Mars</name>
+		<type>Rocky</type>
+		<distance>141</distance>
+		<earthDays>687</earthDays>
+	</planet>
+
+	<planet>
+		<id>4</id>
+		<name>Jupiter</name>
+		<type>Gas Giant</type>
+		<distance>484</distance>
+		<earthDays>4,333</earthDays>
+	</planet>
+
+	<planet>
+		<id>5</id>
+		<name>Saturn</name>
+		<type>Gas Giant</type>
+		<distance>900</distance>
+		<earthDays>10,759</earthDays>
+	</planet>
+
+	<planet>
+		<id>6</id>
+		<name>Uranus</name>
+		<type>Ice Giant</type>
+		<distance>1,800</distance>
+		<earthDays>30,687</earthDays>
+	</planet>
+
+	<planet>
+		<id>7</id>
+		<name>Neptune</name>
+		<type>Ice Giant</type>
+		<distance>2,800</distance>
+		<earthDays>60,190</earthDays>
+	</planet>
+</planets>

@@ -1,0 +1,10 @@
+<!DOCTYPE planets
+[
+<!ELEMENT planets (planet+)>
+<!ELEMENT planet (id, name, type, distance, earthDays)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT distance (#PCDATA)>
+<!ELEMENT earthDays (#PCDATA)>
+]>
